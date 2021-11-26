@@ -1,0 +1,6 @@
+[submodule "Raspi_I2C"]
+	path = Raspi_I2C
+	url = https://github.com/Matrix-Robotics/Raspi_I2C
+[submodule "depthai_hand_tracker"]
+	path = depthai_hand_tracker
+	url = https://github.com/Matrix-Robotics/depthai_hand_tracker
