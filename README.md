@@ -71,7 +71,7 @@ And Tempura's vision uses the exclusive Machine Learning Pipeline, which include
 
 ### Installation
 
-Note that tempura repository has two sub-modules: Raspi-I2C and depthai-hand-tracker.
+Note that tempura repository has two sub-modules: [Raspi-I2C](https://github.com/Matrix-Robotics/Raspi_I2C) and [depthai-hand-tracker](https://github.com/Matrix-Robotics/depthai_hand_tracker).
 
 1. If you want to install all sub modules, you can run the following command:
   ```sh
